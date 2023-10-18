@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [http://apewithglasses.me](http://apewithglasses.me)
 
-- 💬 Ask me about **Java, Angular, React...**
+- 💬 Ask me about **Java, Angular, React, CI/CD...**
 
 <p align="left">
 </p>
