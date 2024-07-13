@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Java, Tailwind**
 
-- 👨‍💻 All of my projects are available at [http://apewithglasses.me](http://apewithglasses.me)
+- 👨‍💻 All of my projects are available at [https://apewithglasses.github.io/](https://apewithglasses.github.io/)
 
 - 💬 Ask me about **Java, Angular, React, CI/CD...**
 
