@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java and web developer</h3>
 </a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Java, Tailwind**
+- 🌱 I’m currently learning **Tailwind, React Native, AWS**
 
 - 👨‍💻 All of my projects are available at [https://apewithglasses.github.io/](https://apewithglasses.github.io/)
 
